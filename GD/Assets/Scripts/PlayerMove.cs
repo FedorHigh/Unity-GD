@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Events;
 
 
 public class PlayerMove : MonoBehaviour
@@ -13,6 +14,9 @@ public class PlayerMove : MonoBehaviour
     const float reservegravity = 20;
 
     private new Rigidbody2D rigidbody2D;
+    public UnityEvent OnJump;
+    public UnityEvent EnterDash;
+    public UnityEvent ExitDash_;
 
     void Start()
     {
@@ -20,32 +24,43 @@ public class PlayerMove : MonoBehaviour
         gravity = rigidbody2D.gravityScale;
     }
 
-    private bool doJump = false;
+    private bool doJump = true;
     private bool doExtraJump = false;
     private enum Dash {None, Wait, Active}
     private Dash doDash = Dash.None;
     private bool isDashing = false;
+    private bool plane = false;
 
     void Update()
     {
-        doJump = Input.GetKey(jumpKeyCode) || Input.GetButton("Jump");
+        doJump = Input.GetKey(jumpKeyCode);
         doExtraJump = Input.GetKeyDown(jumpKeyCode) || Input.GetButtonDown("Jump");
 
         if (doDash == Dash.Wait && Input.GetKeyDown(jumpKeyCode))
         {
             doDash = Dash.Active;
+            EnterDash.Invoke();
             rigidbody2D.gravityScale = 0;
             
         }
         if (doDash == Dash.Active && Input.GetKeyUp(jumpKeyCode))
         {
             doDash = Dash.None;
+            ExitDash_.Invoke();
             rigidbody2D.gravityScale = reservegravity;
 
         }
 
 
         gravity = rigidbody2D.gravityScale;
+        if (Input.GetKeyDown(jumpKeyCode))
+        {
+            OnJump.Invoke();
+        }
+        if (Input.GetKeyUp(jumpKeyCode))
+        {
+            OnJump.Invoke();
+        }
     }
 
     private void FixedUpdate()
@@ -93,7 +108,11 @@ public class PlayerMove : MonoBehaviour
     {
         if (collision.collider.TryGetComponent<ground>(out var ground))
         {
-            jumps = 1;
+            if (plane == false)
+            {
+                jumps = 1;
+            }
+            
         }
     }
     
@@ -145,6 +164,7 @@ public class PlayerMove : MonoBehaviour
         if (doDash == Dash.Wait)
         {
             doDash = Dash.None;
+            //ExitDash_.Invoke();
             print("nodash");
         }
         
@@ -177,9 +197,10 @@ public class PlayerMove : MonoBehaviour
     public void Plane()
     {
         jumps = 5000;
-        jumpForce = 25;
+        jumpForce = 15;
         rigidbody2D.gravityScale = 5;
-        maxSpeed = 10;
+        plane = true;
+        
     }
     public void exitPlane()
     {
@@ -187,5 +208,14 @@ public class PlayerMove : MonoBehaviour
         jumpForce = 45;
         rigidbody2D.gravityScale = 20;
         maxSpeed = 10;
+        plane = false;
+    }
+    public void jumppad()
+    {
+        extrajumps = 1;
+        doExtraJump = true;
+        
+        extra = 0.5f;
+
     }
 }

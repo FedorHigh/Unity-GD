@@ -109,4 +109,8 @@ public class ballplayer : MonoBehaviour
         rigidbody2D.gravityScale = 20;
         maxSpeed = 10;
     }
+    public void HorizontalReverse()
+    {
+        maxSpeed = -maxSpeed;
+    }
 }

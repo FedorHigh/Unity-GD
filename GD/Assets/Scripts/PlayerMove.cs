@@ -17,12 +17,15 @@ public class PlayerMove : MonoBehaviour
     public UnityEvent OnJump;
     public UnityEvent EnterDash;
     public UnityEvent ExitDash_;
-
+    private Vector2 motion;
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         gravity = rigidbody2D.gravityScale;
+        motion = rigidbody2D.velocity;
     }
+        
+    
 
     private bool doJump = true;
     private bool doExtraJump = false;
@@ -30,6 +33,7 @@ public class PlayerMove : MonoBehaviour
     private Dash doDash = Dash.None;
     private bool isDashing = false;
     private bool plane = false;
+    //private Vector2 motion = rigidbody2D.velocity;
 
     void Update()
     {
@@ -65,7 +69,7 @@ public class PlayerMove : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Vector2 motion = rigidbody2D.velocity;
+        motion = rigidbody2D.velocity;
 
         // Движение по вертикали
         if (doDash != Dash.Active)
@@ -212,10 +216,21 @@ public class PlayerMove : MonoBehaviour
     }
     public void jumppad()
     {
-        extrajumps = 1;
-        doExtraJump = true;
-        
-        extra = 0.5f;
 
+
+        motion.y = jumpForce * 1.5f;
+        rigidbody2D.velocity = motion;
+
+
+    }
+    public void reversejump()
+    {
+        motion.y = jumpForce*2;
+        rigidbody2D.velocity = motion;
+        gravity = rigidbody2D.gravityScale;
+        rigidbody2D.gravityScale = -gravity;
+        jumpForce = -jumpForce;
+        motion.y = jumpForce;
+        rigidbody2D.velocity = motion;
     }
 }

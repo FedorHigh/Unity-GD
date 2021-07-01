@@ -1,0 +1,4159 @@
+fileFormatVersion: 2
+guid: fa33aa13f34bd244a9e8e1bff66b436f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2337991603483311749
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+  - first:
+      213: 7021539930241588748
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+  - first:
+      213: -2175279019629972545
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+  - first:
+      213: -6585342117161257758
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+  - first:
+      213: -4744968412641606828
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+  - first:
+      213: 9145041694096738538
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+  - first:
+      213: -7117736095777449511
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+  - first:
+      213: 8784835204935377420
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+  - first:
+      213: 7760297495814126335
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+  - first:
+      213: 1455646541554150526
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+  - first:
+      213: -4117831870494459666
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+  - first:
+      213: 197658284165665325
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+  - first:
+      213: -7484325958459395072
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+  - first:
+      213: -5730430996926415630
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+  - first:
+      213: 7068174665273672852
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+  - first:
+      213: 4862645903880733958
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+  - first:
+      213: -2605334232977907053
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+  - first:
+      213: -2822480859157459979
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+  - first:
+      213: -5474227132303611819
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+  - first:
+      213: -1175843061256135135
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+  - first:
+      213: -3161333553053689964
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+  - first:
+      213: 8102403290409059280
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+  - first:
+      213: -4487949660360100843
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+  - first:
+      213: 6163794778720180773
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+  - first:
+      213: -8900675525880028328
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+  - first:
+      213: 2868410708510197623
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+  - first:
+      213: -3383586324581045570
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+  - first:
+      213: 5986900588051873066
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+  - first:
+      213: 2157344603089784165
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+  - first:
+      213: 22706952651865006
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+  - first:
+      213: -2860551265317868289
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+  - first:
+      213: -429133790981939034
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+  - first:
+      213: -2317818707549490348
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+  - first:
+      213: -3483786948501235968
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+  - first:
+      213: 8279021102865015255
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+  - first:
+      213: -8410129772559878024
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+  - first:
+      213: -3773206398623414857
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+  - first:
+      213: -163352510767392327
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+  - first:
+      213: -3323409940817069482
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+  - first:
+      213: -6791303744743286784
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+  - first:
+      213: 2767520280780786227
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+  - first:
+      213: 8695366105821961177
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+  - first:
+      213: -66321734742320941
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+  - first:
+      213: -3520224523256348532
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+  - first:
+      213: 4624520405439468725
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+  - first:
+      213: 7221040327597442291
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+  - first:
+      213: -7166891034180411038
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+  - first:
+      213: 1303234679624701046
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+  - first:
+      213: -7085208449030345036
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+  - first:
+      213: -6353220358458410812
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+  - first:
+      213: -9058050447745780879
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+  - first:
+      213: 2617088246027087002
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+  - first:
+      213: -8091344268098721160
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+  - first:
+      213: 843927718864206447
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_53"
+  - first:
+      213: -8641059455973586443
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_54"
+  - first:
+      213: 4108544052932025721
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_55"
+  - first:
+      213: 5558316749579443407
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_56"
+  - first:
+      213: 3489357480482020946
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_57"
+  - first:
+      213: 5080748433853453822
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_58"
+  - first:
+      213: 7444523415272720587
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_59"
+  - first:
+      213: 2111145905290960768
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_60"
+  - first:
+      213: 7555687859746750054
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_61"
+  - first:
+      213: -2829614916535394738
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_62"
+  - first:
+      213: 1118360197061401226
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_63"
+  - first:
+      213: 3028461385737769938
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_64"
+  - first:
+      213: 7811016837072920746
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_65"
+  - first:
+      213: 7577265717981187053
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_66"
+  - first:
+      213: 7008163146563235470
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_67"
+  - first:
+      213: -6355406351631396426
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_68"
+  - first:
+      213: 3004272837540932700
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_69"
+  - first:
+      213: 10774804776412516
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_70"
+  - first:
+      213: 3301312809015421532
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_71"
+  - first:
+      213: -6624110514165167390
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_72"
+  - first:
+      213: -1480023828692260193
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_73"
+  - first:
+      213: 5730185743404127215
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_74"
+  - first:
+      213: -1261657412498031293
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_75"
+  - first:
+      213: 8308657739970634806
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_76"
+  - first:
+      213: -8097730264648951952
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_77"
+  - first:
+      213: 4726903167383724715
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_78"
+  - first:
+      213: -7812543515956946827
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_79"
+  - first:
+      213: -7516432531448829646
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_80"
+  - first:
+      213: 7875683958718475260
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_81"
+  - first:
+      213: 4117329263682111111
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_82"
+  - first:
+      213: -4471814834909484888
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_83"
+  - first:
+      213: 8977527757796940004
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_84"
+  - first:
+      213: -8386159031138133393
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_85"
+  - first:
+      213: 840513226931048695
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_86"
+  - first:
+      213: 7236244125574415095
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_87"
+  - first:
+      213: -3109961654459040900
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_88"
+  - first:
+      213: -7930257329909760835
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_89"
+  - first:
+      213: 5906347234122889961
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_90"
+  - first:
+      213: 298786544149418535
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_91"
+  - first:
+      213: 4904264849662658616
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_92"
+  - first:
+      213: 8517378363486199896
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_93"
+  - first:
+      213: -9019202790678700598
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_94"
+  - first:
+      213: 8492469399655004107
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_95"
+  - first:
+      213: 4325406528396924267
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_96"
+  - first:
+      213: -2974695992755566592
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_97"
+  - first:
+      213: 2020227055422271878
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_98"
+  - first:
+      213: -1084918625683891041
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_99"
+  - first:
+      213: 4027638297294284437
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_100"
+  - first:
+      213: -3282939860725921366
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_101"
+  - first:
+      213: 2132951487963537178
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_102"
+  - first:
+      213: -354813613792032710
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_103"
+  - first:
+      213: -3948909511083277275
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_104"
+  - first:
+      213: -9098002429113484915
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_105"
+  - first:
+      213: 2815957804488153041
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_106"
+  - first:
+      213: -3716000469910905582
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_107"
+  - first:
+      213: -8546981405828812862
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_108"
+  - first:
+      213: -2298484313430525034
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_109"
+  - first:
+      213: -4684460260327950823
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_110"
+  - first:
+      213: 2261338290144810131
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_111"
+  - first:
+      213: -8262718505827833807
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_112"
+  - first:
+      213: 2789661436983904134
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_113"
+  - first:
+      213: -7740138238100146654
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_114"
+  - first:
+      213: -7208137220585137056
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_115"
+  - first:
+      213: -7143505578792934782
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_116"
+  - first:
+      213: 8282433843104622580
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_117"
+  - first:
+      213: -6862628868940056448
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_118"
+  - first:
+      213: -4888685670517741285
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_119"
+  - first:
+      213: 2008227353402907842
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_120"
+  - first:
+      213: -1393438582864551960
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_121"
+  - first:
+      213: 1315178317849466133
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_122"
+  - first:
+      213: -866281058262389674
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_123"
+  - first:
+      213: -719469010125116138
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_124"
+  - first:
+      213: 6587511244389876596
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_125"
+  - first:
+      213: -5915608933308810882
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_126"
+  - first:
+      213: 5614937202579647141
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_127"
+  - first:
+      213: 408233313210265379
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_128"
+  - first:
+      213: 3466166255410396242
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_129"
+  - first:
+      213: 5730099038248765249
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_130"
+  - first:
+      213: 6118080019910846520
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_131"
+  - first:
+      213: -5486294297913995478
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_132"
+  - first:
+      213: 1652305214127991452
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_133"
+  - first:
+      213: 6959664454215500551
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_134"
+  - first:
+      213: -1079436580296943137
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_135"
+  - first:
+      213: -2186711833460303682
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_136"
+  - first:
+      213: -5121716005437109072
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_137"
+  - first:
+      213: 5054681715379156910
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_138"
+  - first:
+      213: 1475630152601227976
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_139"
+  - first:
+      213: -3965267439987051386
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_140"
+  - first:
+      213: 5912244993467264306
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_141"
+  - first:
+      213: -1814230500330666697
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_142"
+  - first:
+      213: -1863609882837026649
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_143"
+  - first:
+      213: 4481716530870896955
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_144"
+  - first:
+      213: -7574363341642060231
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_145"
+  - first:
+      213: 4417638423582880584
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_146"
+  - first:
+      213: 4819341735264069916
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_147"
+  - first:
+      213: 4604096952098689080
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_148"
+  - first:
+      213: -8084508262974504937
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_149"
+  - first:
+      213: 3988803168678724369
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_150"
+  - first:
+      213: -6828517809050801316
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_151"
+  - first:
+      213: -2355974594929639585
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_152"
+  - first:
+      213: -4283356160470489834
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_153"
+  - first:
+      213: -6258036257127046729
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_154"
+  - first:
+      213: 6862553205202481125
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_155"
+  - first:
+      213: 379722064439388328
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_156"
+  - first:
+      213: 2070471316032656554
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_157"
+  - first:
+      213: -2870529548699337130
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_158"
+  - first:
+      213: 1056958439908204822
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_159"
+  - first:
+      213: 8469842624171531432
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_160"
+  - first:
+      213: 3044136946212382709
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_161"
+  - first:
+      213: -6477100822077613205
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_162"
+  - first:
+      213: 121732858300923000
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_163"
+  - first:
+      213: -3184177278967726252
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_164"
+  - first:
+      213: 7643199905015371932
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_165"
+  - first:
+      213: 8010179122041023588
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_166"
+  - first:
+      213: 6180062362641734947
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_167"
+  - first:
+      213: -741776523196315055
+    second: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_168"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c0f6a28894a6429991401195fb72d
+      internalID: 2337991603483311749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 868
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a901be62169943a124edcf08db5f6
+      internalID: 7021539930241588748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 896
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c96871608e6542bc796e6fa359dd7
+      internalID: -2175279019629972545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b19061a5fec7f49b1588f12193c3dd
+      internalID: -6585342117161257758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8375471a37038440a3b4bc0db7b5101
+      internalID: -4744968412641606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5930cf44ec0343a29b30f93231cf1
+      internalID: 9145041694096738538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 898
+        width: 70
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143f17b5b69d7943ac3d9b4aba2dfd1
+      internalID: -7117736095777449511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fb97d14e61ec40845eb7e4268c238
+      internalID: 8784835204935377420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2246312942163469394ed251b5fd60
+      internalID: 7760297495814126335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e8415ba156144e9d9117f4061f61c
+      internalID: 1455646541554150526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a344f7de76c17a54a915b8207b5e8137
+      internalID: -4117831870494459666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 866
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1009fbf05eb84446966fdf0ed84e193
+      internalID: 197658284165665325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 790
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41feff13ac7770c418ee1113fbb5dd1b
+      internalID: -7484325958459395072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee445dfae5a7a49489ae8887c42d80ef
+      internalID: -5730430996926415630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 796
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c817e8a680753419006e59095ef9fc
+      internalID: 7068174665273672852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 824
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8e253e3660644dbd1f846f301f82d
+      internalID: 4862645903880733958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77cbd7342515445a267dde9b469865
+      internalID: -2605334232977907053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61d39cf2d9c504998c3d93658ce720
+      internalID: -2822480859157459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 794
+        width: 16
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e385fe9a4d986143bdc7025eb9f344a
+      internalID: -5474227132303611819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d4a13b17c03f4aba755a62dbab45e
+      internalID: -1175843061256135135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38422c81485f6cf4dbcd06c988168a9b
+      internalID: -3161333553053689964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 794
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca043725855c0ea489ddccaf82e29233
+      internalID: 8102403290409059280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473d32c23ff36049aff2192683eae0e
+      internalID: -4487949660360100843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 794
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24966bc3a032168408ac8b2bd66e9c6d
+      internalID: 6163794778720180773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 794
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dcd2b160881594b9739230b0e2d042
+      internalID: -8900675525880028328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad0faef5e82f74884551af95c9bff8
+      internalID: 2868410708510197623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 724
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59c357b38ab0544acc544193e867d3
+      internalID: -3383586324581045570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 752
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12efed926d9ef754db47ee4e22f5d6a9
+      internalID: 5986900588051873066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f2803141685b4995d47be81c11338
+      internalID: 2157344603089784165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32348d8f0a8368a4eb6960d54f1d55b6
+      internalID: 22706952651865006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1505302388f2424caad133db5e04518
+      internalID: -2860551265317868289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5700f006d914d84488ba80dd07c21a9
+      internalID: -429133790981939034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d70fb293f1df0243b31de40584e73ba
+      internalID: -2317818707549490348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260424f58f454943afedf74f596b68f
+      internalID: -3483786948501235968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 722
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc34d94b5f482b49962b7cbcf84da88
+      internalID: 8279021102865015255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0dd3c6b2dfa6a4f811c04494dd2a86
+      internalID: -8410129772559878024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa06d2e990eef14b94e1aff47d2843a
+      internalID: -3773206398623414857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 764
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b53de9e8336549984807a212e395e
+      internalID: -163352510767392327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dfff718fccb014e9df35397098c0f9
+      internalID: -3323409940817069482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 652
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d45e0f0c23e1441840b7ab6a98088a
+      internalID: -6791303744743286784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14066ba1fd14c4eb6177e7368101d7
+      internalID: 2767520280780786227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19178e62ce1e93438d4ce78654f4335
+      internalID: 8695366105821961177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 650
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf950e2c847ea43b07d18850f2f69c
+      internalID: -66321734742320941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 679
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ed58625fef7848b5bc005cb8bb808
+      internalID: -3520224523256348532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c6cac34ce2f544a00dcd2a9c03a6a
+      internalID: 4624520405439468725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed664d7449b86448c267dbd50055f4
+      internalID: 7221040327597442291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a6fa30cb0ece42a673b69663b038d
+      internalID: -7166891034180411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 650
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbfdf184ea98d74fa44627555d3fd16
+      internalID: 1303234679624701046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 679
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81906c34ac698d4796924331c7420dc
+      internalID: -7085208449030345036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 650
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c356aead505094cb66746b1a043459
+      internalID: -6353220358458410812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00219616f13114d9120fb1f1ba4200
+      internalID: -9058050447745780879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ea565159e0b84b860ed3622d88331
+      internalID: 2617088246027087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fd02105804bf438bb63929f3bc9a8
+      internalID: -8091344268098721160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_53"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7987da39e67c87449bf51568d3f28bb
+      internalID: 843927718864206447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_54"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 578
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966620f834471fc4caacd5cf4c8e7557
+      internalID: -8641059455973586443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_55"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 607
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecf4a990891b84e8b267f3496c4d60
+      internalID: 4108544052932025721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_56"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c85b0df95bde54cb47a72afce13f14
+      internalID: 5558316749579443407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_57"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce784d5b02b2243854e57a65d60fae
+      internalID: 3489357480482020946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_58"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147fc24db84d5c489e120334ffb570d
+      internalID: 5080748433853453822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_59"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfcf392514399d4a8c57f6c8c2ba4a4
+      internalID: 7444523415272720587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_60"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 607
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31ed52f21463648949da817957bce9
+      internalID: 2111145905290960768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_61"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 578
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37befb09c49b2d640add1e1f66195281
+      internalID: 7555687859746750054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_62"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135b63482c00534a8d3052717b39a9e
+      internalID: -2829614916535394738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_63"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9848fc921fab4abdbd970fb0563e9
+      internalID: 1118360197061401226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_64"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e311c8ca2e0b1488b9bb9bf5172abe
+      internalID: 3028461385737769938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_65"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943b3716cd6a674c9ee5a6538b304f8
+      internalID: 7811016837072920746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_66"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9408b4d19cf74bb07a10d7690c34e
+      internalID: 7577265717981187053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_67"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 535
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a28d3f01d0c44b904fe16a829eb01
+      internalID: 7008163146563235470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_68"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc746e74a26f0f449be5e46c166458f
+      internalID: -6355406351631396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_69"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 506
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1750abe26f933458cc4695b5a0df83
+      internalID: 3004272837540932700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_70"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 536
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399e42e75caa1c4d86b52d1f9f111aa
+      internalID: 10774804776412516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_71"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 506
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dda59fb36fecb4fb0c27655cbc0433
+      internalID: 3301312809015421532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_72"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 535
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279358fbb0048294ea2f6e9abd218ea8
+      internalID: -6624110514165167390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_73"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 536
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b12bcc16f8a74083406b3462f3747
+      internalID: -1480023828692260193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_74"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d94f2812736f942ae2a1d01fd80969
+      internalID: 5730185743404127215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_75"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c22f97bde79c4c8a347029280e74f
+      internalID: -1261657412498031293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_76"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47488672bd3e5fa43974cb13378c484a
+      internalID: 8308657739970634806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_77"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 463
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f76bc263862d4e88a19097ea5b342
+      internalID: -8097730264648951952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_78"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dab1eabc4f37047b339b1722f636a5
+      internalID: 4726903167383724715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_79"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 463
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23c6133d1405649b47b28feff21a5b
+      internalID: -7812543515956946827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_80"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c348ae8b8087409fe45b6c1791218
+      internalID: -7516432531448829646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_81"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa5e51e8a7a254ab489b9bca3a1a9d
+      internalID: 7875683958718475260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_82"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 464
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0ae8259d05764d93d2ee8d8e447b0
+      internalID: 4117329263682111111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_83"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835362455af8a7547941bd6d86580798
+      internalID: -4471814834909484888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_84"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 463
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65712129eb23b443abdf3cd97bef965
+      internalID: 8977527757796940004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_85"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 434
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6841402e207d74e88edd2cf4ac4474
+      internalID: -8386159031138133393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_86"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada0a73fb47b2b44ab5fb65e155c8241
+      internalID: 840513226931048695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_87"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb99f69aa452d04cbb630af2adbabfa
+      internalID: 7236244125574415095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_88"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3d3313a6309c9448acbc5abbd8bcce
+      internalID: -3109961654459040900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_89"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 391
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9eab22282dab42928ceaef8e4babc
+      internalID: -7930257329909760835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_90"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bac19a4f1786e040a26cd110411d8e1
+      internalID: 5906347234122889961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_91"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cbaf12cb1132347902862956f8a4a8
+      internalID: 298786544149418535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_92"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf82e39ea62da488b0b481d398385c
+      internalID: 4904264849662658616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_93"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4622b857efa64aad3b70bc30d2ea9
+      internalID: 8517378363486199896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_94"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32947f23f7f779c40a7273b4cb0a3a71
+      internalID: -9019202790678700598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_95"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d7546dd3380f48b30b4b0ec5b76de
+      internalID: 8492469399655004107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_96"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6835967c4dfd4d9ceef3c085813ec
+      internalID: 4325406528396924267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_97"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 362
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78feeabc658a9cc4792303f79dee6066
+      internalID: -2974695992755566592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_98"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96991483214d3fb4eac14d85e3c28f7a
+      internalID: 2020227055422271878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_99"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a987382f67d8fc43b5677b61c1f16e8
+      internalID: -1084918625683891041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_100"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488966632264dd04c81d968baa8643bb
+      internalID: 4027638297294284437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_101"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 319
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841b8b2e6fcfee41a64227db1933e22
+      internalID: -3282939860725921366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_102"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45159b57f4e648a4a894c1d255f589de
+      internalID: 2132951487963537178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_103"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48324e17f4950a4597785f6185fc669
+      internalID: -354813613792032710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_104"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 290
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3666b979cbef4941b1bc50982f60e3d
+      internalID: -3948909511083277275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_105"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc8f5c5d3bac54e80bce8d4d5a37bf
+      internalID: -9098002429113484915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_106"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae06477141d8a47be81ba2ba38501e
+      internalID: 2815957804488153041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_107"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39911264cb43ca4f9e74586a069a73b
+      internalID: -3716000469910905582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_108"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40fbaaaa16e4947af45ba19a5bb86a
+      internalID: -8546981405828812862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_109"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f14e632088f08429005a045131c816
+      internalID: -2298484313430525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_110"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2cf4d0f72f7b4abd9ece5b3604414
+      internalID: -4684460260327950823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_111"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091e7a86a4105ff4681067fde17d7b91
+      internalID: 2261338290144810131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_112"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218570af8594ac4fa96c6beed1a278b
+      internalID: -8262718505827833807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_113"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 247
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5738633f285b44d9c3432b055ee6ea
+      internalID: 2789661436983904134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_114"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dabadaa5cfa7649b461d63bbb791e4
+      internalID: -7740138238100146654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_115"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89841223a62d8459006ab93b8d2790
+      internalID: -7208137220585137056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_116"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 218
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b27bcde2e144c448fb3a070dbce44d
+      internalID: -7143505578792934782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_117"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941a374914864b4181e7bc39d231f7f
+      internalID: 8282433843104622580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_118"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e2b78933d7d245876ab22a8d2ab55
+      internalID: -6862628868940056448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_119"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 248
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a482a3265c1c3449347b14351338d2
+      internalID: -4888685670517741285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_120"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb43d1ef88a2f745a35e0f165efa7e6
+      internalID: 2008227353402907842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_121"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 248
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc63fbaa362e524f8a7847a47f9c5e0
+      internalID: -1393438582864551960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_122"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46ade79a583cb4484a6c775de29ede
+      internalID: 1315178317849466133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_123"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125082c5d6c41d449c2fca47f1e84fc
+      internalID: -866281058262389674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_124"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679de287dd7428a4eac5198f0faae8b9
+      internalID: -719469010125116138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_125"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f5d122d5f863641bad6bcc8b39474d
+      internalID: 6587511244389876596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_126"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305167b137fabee4cb67fa72a37e9489
+      internalID: -5915608933308810882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_127"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47918ddc29078459033b36169b9785
+      internalID: 5614937202579647141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_128"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f3ca25d786cc4c9e03bbf3ec6c0e3
+      internalID: 408233313210265379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_129"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fb2c6968d58640b33113ed4a11419
+      internalID: 3466166255410396242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_130"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d40f22f620e9468eb5a4176ed200c
+      internalID: 5730099038248765249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_131"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 146
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258dfb924709f54bb6f0e085fbbfb90
+      internalID: 6118080019910846520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_132"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 110
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564dee216944fc44b50c8a717bd94c0
+      internalID: -5486294297913995478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_133"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 70
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2ccf7ca313a354da8d35a1b85cc36f
+      internalID: 1652305214127991452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_134"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c53f1e7998eb44983cb6172d879a91
+      internalID: 6959664454215500551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_135"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78fd98ccee7574684bb594cffa411e
+      internalID: -1079436580296943137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_136"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2250aeecf4cf94a9a13ec5a858ab11
+      internalID: -2186711833460303682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_137"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850bac127499e54c8c6220a995f9076
+      internalID: -5121716005437109072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_138"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ae229d4c0f2d46999fadc4e25413a
+      internalID: 5054681715379156910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_139"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96cd5ae802c2b4bbbdf9167ede9990
+      internalID: 1475630152601227976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_140"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b954a8c749684a8971aefc8f15c8d
+      internalID: -3965267439987051386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_141"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 74
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409911259e6993a4797f40b4ac7b359b
+      internalID: 5912244993467264306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_142"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29fc67f934b4664ba8fa9301f630ca5
+      internalID: -1814230500330666697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_143"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8199b64ddfd680459dc0ad3cc057d54
+      internalID: -1863609882837026649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_144"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57088ae39c0d04e873fe519e3ecce0
+      internalID: 4481716530870896955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_145"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 74
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78c6f1dc3aafc479241b805cb5f010
+      internalID: -7574363341642060231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_146"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf596bbd1afe7242b4b91333c071fdf
+      internalID: 4417638423582880584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_147"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80411a218730f479b647fb2c852ff6
+      internalID: 4819341735264069916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_148"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801d99ba5b419d4097bc82e38c3be23
+      internalID: 4604096952098689080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_149"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f220838e06eff1499e7680267568022
+      internalID: -8084508262974504937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_150"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464adf2bac30ff644aa48bbce50c723f
+      internalID: 3988803168678724369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_151"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00303633ad4a2d4faf2993c3f7ab50b
+      internalID: -6828517809050801316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_152"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2
+        width: 5
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ce70b100aeb04fa45dfe8b5566e6f
+      internalID: -2355974594929639585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_153"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dc98194e35d894a9f5e7102a9e2eee
+      internalID: -4283356160470489834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_154"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4861e16e04fef946a838e223135eefd
+      internalID: -6258036257127046729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_155"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82061c455e1b2e647875909ac26f58c3
+      internalID: 6862553205202481125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_156"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6f826d7766aa4e81c9b852a08e0c8
+      internalID: 379722064439388328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_157"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 46
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8e904f438cf84caf89dc7c178752c
+      internalID: 2070471316032656554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_158"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 44
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd91b617d1f714bb914d238c31da68
+      internalID: -2870529548699337130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_159"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 46
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef619a1fce39a6f4fb7e0a3c90855ce9
+      internalID: 1056958439908204822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_160"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 50
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09995a60360174e95d1c3ae758edf4
+      internalID: 8469842624171531432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_161"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8e09044b968c45b2be237403e5aa2
+      internalID: 3044136946212382709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_162"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 26
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ab200ae48c404a8489fcbd843d4fe
+      internalID: -6477100822077613205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_163"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 18
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0356ace91c384478758860a12d81c0
+      internalID: 121732858300923000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_164"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 26
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9a5c821e6e3443bc9ac643de236f5
+      internalID: -3184177278967726252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_165"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 30
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a69ddd463518f48b575ce5da5c520e
+      internalID: 7643199905015371932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_166"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 6
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e76e0f4a172a459b72ba1f6bdd8b7
+      internalID: 8010179122041023588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_167"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad88504ecc9fb46b5f3ae87310f653
+      internalID: 6180062362641734947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LuckyMap (4) \u2014 \u043A\u043E\u043F\u0438\u044F_168"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 4
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f7d7a0b7b27747af3e9ef6005f91d
+      internalID: -741776523196315055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
